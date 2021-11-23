@@ -1,9 +1,3 @@
-port: 7890
-socks-port: 7891
-allow-lan: true
-mode: Rule
-log-level: info
-external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🎏 试用线路, server: 203.69.53.127, port: 443, type: ss, cipher: aes-256-gcm, password: c5c41727af83, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: twn600wds12.soflyso.info, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 🏳️‍🌈 新用户专线, server: 211.23.141.54, port: 443, type: ss, cipher: aes-256-gcm, password: 3c7ab2c61374, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: dx600twnewss002.soflyso.info, path: "", tls: true, mux: true, skip-cert-verify: false}}
