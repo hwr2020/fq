@@ -1,5 +1,5 @@
-  proxies:
-- {name: catlog.flareai.science:11543, server: catlog.flareai.science, port: 11543, type: http, username: b3b1de88b0, password: b91b087fa4, tls: true, skip-cert-verify: false, udp: true}
+proxies:
+  - {name: catlog.flareai.science:11543, server: catlog.flareai.science, port: 11543, type: http, username: b3b1de88b0, password: b91b087fa4, tls: true, skip-cert-verify: false, udp: true}
   - {name: h295826.waihuizhibiaowang.com:11543, server: h295826.waihuizhibiaowang.com, port: 11543, type: http, username: b3b1de88b0, password: b91b087fa4, tls: true, skip-cert-verify: false, udp: true}
   - {name: assets.flareai.site:11543, server: assets.flareai.site, port: 11543, type: http, username: b3b1de88b0, password: b91b087fa4, tls: true, skip-cert-verify: false, udp: true}
   - {name: h295826.waihuizhibiaowang.com:11443, server: h295826.waihuizhibiaowang.com, port: 11443, type: http, username: b3b1de88b0, password: b91b087fa4, tls: true, skip-cert-verify: false, udp: true}
